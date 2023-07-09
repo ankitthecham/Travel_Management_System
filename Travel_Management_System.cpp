@@ -490,5 +490,5 @@ int main()
 }
 
 /*
-Used IDE: CodeBlocks
+Used IDE: VScode
 */
